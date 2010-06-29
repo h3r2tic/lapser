@@ -1,0 +1,7 @@
+syntax: glob
+*.deps
+*.objs
+*.jpg
+*.dll
+*.exe
+ffmpeg/
